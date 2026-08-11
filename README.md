@@ -103,15 +103,15 @@ Sempre compilando conhecimento novo 🧠⚡
 luan@dev-core:~$ _
 </div> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"> <br/>
 <img src="https://media.tenor.com/8vLnKRaB3VkAAAAi/loading-loading-forever.gif" width="28"/> GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&count_private=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF" width="49%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=10" width="49%" /> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="49%" />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LuanDeLara&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&count_private=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanDeLara&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF" width="49%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanDeLara&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=10" width="49%" /> <img src="https://github-profile-trophy.vercel.app/?username=LuanDeLara&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&area_color=8A2BE2" width="99%" /> </div> <br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanDeLara&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&area_color=8A2BE2" width="99%" /> </div> <br/>
 <img src="https://media.tenor.com/On7CTuGnMuQAAAAi/circuit-loading.gif" width="28"/> Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"> <img alt="snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"> </picture>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanDeLara/LuanDeLara/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanDeLara/LuanDeLara/output/github-contribution-grid-snake.svg"> <img alt="snake animation" src="https://raw.githubusercontent.com/LuanDeLara/LuanDeLara/output/github-contribution-grid-snake.svg"> </picture>
 
-<sub>⚠️ Para essa animação funcionar, adicione o arquivo <code>snake.yml</code> (incluído junto com este README) na pasta <code>.github/workflows/</code> do seu repositório <code>SEU_USUARIO/SEU_USUARIO</code>.</sub>
+<sub>⚠️ Para essa animação funcionar, adicione o arquivo <code>snake.yml</code> (incluído junto com este README) na pasta <code>.github/workflows/</code> do seu repositório <code>LuanDeLara/LuanDeLara</code>.</sub>
 
 </div> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"> <br/>
 <img src="https://media.tenor.com/8vLnKRaB3VkAAAAi/loading-loading-forever.gif" width="28"/> Conecte-se
@@ -119,7 +119,7 @@ luan@dev-core:~$ _
 
 Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
 
-</div> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PERFIL+VISUALIZADO&color=00F5FF&style=for-the-badge" /> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:302B63,100:0F0C29&height=150&section=footer&animation=fadeIn" width="100%"/> <div align="center">
+</div> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=LuanDeLara&label=PERFIL+VISUALIZADO&color=00F5FF&style=for-the-badge" /> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:302B63,100:0F0C29&height=150&section=footer&animation=fadeIn" width="100%"/> <div align="center">
 "Não é sobre escrever código. É sobre construir sistemas que pensam." — Luan Lara
 
 <sub>⚡ System designed & compiled by <b>Luan Lara</b> — © 2026 · Todos os direitos reservados</sub>
