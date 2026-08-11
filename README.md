@@ -37,7 +37,7 @@
 │                                          │
 │  STATUS      : ONLINE                    │
 │  ROLE        : IT SUPPORT / DEVELOPER    │
-│  EDUCATION   : ADS                        │
+│  EDUCATION   : ADS                       │
 │  LOCATION    : BRAZIL 🇧🇷                 │
 │  EXPERIENCE  : SUPPORT & INFRASTRUCTURE  │
 │  FOCUS       : WEB DEVELOPMENT           │
