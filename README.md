@@ -259,7 +259,7 @@ luan@dev-core:~$ cat objectives_2026.txt
 │ [■■■■■■□□□□□] 60%  Criar projetos próprios                 │
 │ [■■■■■□□□□□□] 50%  Evoluir para Full Stack                 │
 │ [■■■■□□□□□□□] 40%  Cloud & novas tecnologias               │
-│ [■■■■□□□□□□□] 30%  Open Source                             │
+│ [■■■□□□□□□□□] 30%  Open Source                             │
 │                                                            │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
