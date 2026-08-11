@@ -254,12 +254,12 @@ luan@dev-core:~$ cat objectives_2026.txt
 │                    CURRENT OBJECTIVES                      │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│ [████████████████░░░░] 80%  Evoluir em JavaScript          │
-│ [██████████████░░░░░░] 70%  Desenvolvimento Web           │
-│ [████████████░░░░░░░░] 60%  Criar projetos próprios       │
-│ [██████████░░░░░░░░░░] 50%  Evoluir para Full Stack       │
-│ [████████░░░░░░░░░░░░] 40%  Cloud & novas tecnologias    │
-│ [██████░░░░░░░░░░░░░░] 30%  Open Source                   │
+│ [■■■■■■■■■□□] 80%  Evoluir em JavaScript                   │
+│ [■■■■■■■□□□□] 70%  Desenvolvimento Web                     │
+│ [■■■■■■□□□□□] 60%  Criar projetos próprios                 │
+│ [■■■■■□□□□□□] 50%  Evoluir para Full Stack                 │
+│ [■■■■□□□□□□□] 40%  Cloud & novas tecnologias               │
+│ [■■■■□□□□□□□] 30%  Open Source                             │
 │                                                            │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
